@@ -23,7 +23,7 @@ print(b)
 ```
 
 ## Output:
-![output](<inverse matrix_ss.png>)
+![output](<inverse ss2.png>)
 
 
 ## Result:
